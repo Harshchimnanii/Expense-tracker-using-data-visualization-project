@@ -1,0 +1,2 @@
+# Expense-tracker-using-data-visualization-project
+A MERN-stack personal finance tracker that helps users manage daily expenses with interactive data visualizations. Features secure JWT authentication, category-based tracking, and real-time insights using Chart.js. Built for financial discipline and ease of use.
